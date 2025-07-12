@@ -1,33 +1,65 @@
-## 🚀 Como visualizar
+# Português
 
-Você pode baixar/clonar este repositório e abrir os arquivos `.html` direto no navegador, ou usar uma extensão como Live Server no VS Code.
+## Desafios do Frontend Mentor
 
-## 🛠 Tecnologias
+Esse repositório apresenta minhas soluções pros desafios do [Frontend Mentor](https://www.frontendmentor.io/challenges), que uso para praticar e aprimorar minhas habilidades em front-end.
 
+***
+
+### Hard Skills
 - HTML5
 - CSS3
-- JavaScript (em alguns desafios)
-- Google Fonts
-- Git + GitHub
+- JavaScript
 
-## 📌 Sobre os desafios
+***
 
-Todos os desafios são propostos pela plataforma [Frontend Mentor](https://www.frontendmentor.io/challenges), com versões gratuitas e premium. Aqui estou resolvendo os gratuitos, como forma de aprendizado e portfólio.
+### Como visualizar?
+1. Clone esse repositório.
+2. Abra os arquivos `.html` no seu navegador (recomendo usar a extensão "Live Server" se quiser brincar com a programação).
 
----
+***
 
-## 📚 Aprendizados
+### Links
+- [Meu Perfil no Frontend Mentor](https://www.frontendmentor.io/profile/angelinahc)
 
-Este repositório serve como uma forma de acompanhar minha evolução no front-end, aplicando boas práticas, responsividade e organização de código.
+***
 
----
+### Licença
+Esse repositório é apenas para fins educativos.
 
-## 🔗 Links úteis
+<br>
+<br>
 
-- [Meu perfil no Frontend Mentor](https://www.frontendmentor.io/profile/angelinahc)
+***
 
----
+<br>
+<br>
 
-## 📄 Licença
+# English
 
-Este repositório é apenas para fins educacionais e de aprendizado.
+## Frontend Mentor Challenges
+
+This repo showcases my solutions to challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges), which I use to practice and improve my front-end skills.
+
+***
+
+### Hard Skills
+- HTML5
+- CSS3
+- JavaScript
+
+***
+
+### How to View?
+1. Clone this repository.
+2. Open any `.html` file in your browser (I recommend using the "Live Server" extension if you want to play with the programming).
+
+***
+
+### Links
+- [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/angelinahc)
+
+***
+
+### License
+This project is for educational purposes only.
