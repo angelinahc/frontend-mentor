@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap'); 
+
+
+/* Elementos gerais */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Outfit', 'Open Sans';
+}
+
+
+/* Elementos gráficos */
+
+.box{
+    background-color: hsl(0, 0%, 100%);
+    height: 460px;
+    width: 280px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.text-box{
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+
+.img-qr{
+    width: 100%;
+    height: fit-content;
+    /* Pra deixar o border-radius encaixado dentro de um elemento que já tem border-radius, coloque o border-radius sendo: elemento-pai - padding-pai */
+    border-radius: 10px;
+}
+
+
+/* Textos */
+
+.regular{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(216, 15%, 48%);
+}
+
+.bold{
+    font-weight: 700;
+    font-size: 15px;
+    color: hsl(218, 44%, 22%);
+}
+
+
+/* Alinhamentos */
+
+.center-h{text-align: center;}
+
+.pad-7{padding: 7%;}
+
+.margin-b-10{margin-bottom: 10px;}
